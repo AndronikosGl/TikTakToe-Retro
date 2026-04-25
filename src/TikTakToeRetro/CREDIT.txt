@@ -1,2 +1,2 @@
 Image Assets:
-- Pixel art backgrounds: Image by pikisuperstar on Freepik
+- Pixel art backgrounds bg.png, bg2.png: Image by pikisuperstar on Freepik
