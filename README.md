@@ -5,6 +5,7 @@ A simple tik-tak-toe game written in java according to the design parttern princ
 - Pink colored X is the user
 - Blue colored O is the computer
 - User has the ability to play in three different modes Rule Based, Heurestic and Min Max strategy
+- Simple beep gaime sounds using Java Sound API
 
 After each round, a messagebox is displayed at the user with a flag icon that has 3 different colors according to each state:
 - Red means computer won
