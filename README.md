@@ -6,6 +6,7 @@ A simple tik-tak-toe game written in java according to the design parttern princ
 - Blue colored O is the computer
 - User has the ability to play in three different modes Rule Based, Heurestic and Min Max strategy
 - Simple beep gaime sounds using Java Sound API
+- Lightweight retro motif UI
 
 After each round, a messagebox is displayed at the user with a flag icon that has 3 different colors according to each state:
 - Red means computer won
